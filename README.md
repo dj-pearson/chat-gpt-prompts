@@ -1,11 +1,10 @@
-# ChatGPT Prompts from AIPRM
+# ChatGPT Prompts
 
 ## How to use ?
 
 Please browse to the `prompts` directory, you will find a compilation of prompts that you can use with ChatGPT.  
 The prompts are organized in categories (`Design`, `Web Development`, `Marketing`...)
 
-Don't fork this repo, consider "**Starring (⭐️) it**", if you like the idea, it will motivates me to keep the compilation updated.
 
 If you have a idea for a feature, PR are more than welcome.
 
